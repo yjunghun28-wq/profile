@@ -11,7 +11,7 @@ redirect_from:
       line-height: 0
      }
   ul {margin-top: 0;
-      pedding-top: 0;
+      padding-top: 0;
      }
 </style>
 
