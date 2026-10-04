@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 <style>
-  h2 {margin-bottom: 0; 
-      line-height: 1.0
+  h2 {margin-bottom: 0;               #margin-bottom:  
+      line-height: 1.0;                #line-height: 글자와 상단경계와 하단경계 길이 (24라인하이트-16글자포인트)/2 = 4px씩 상단과 하단에 공간 발생
      }
-  ul {margin-top: 0.5;
-      padding-top: 0;
+  ul {margin-top: 0;                #목록 위로 공간 없앰 
+      padding-top: 0;               #목록 상단 안쪽 공간을 비워서 불릿 포인트가 제목 바로 아래 붙게 만듬
      }
 </style>
 
