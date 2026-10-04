@@ -8,7 +8,7 @@ redirect_from:
 ---
 <style>
   h2 {margin-bottom: 0; 
-      line-height: 1.1
+      line-height: 0
      }
   ul {margin-top: 0;
       pedding-top: 0;
