@@ -10,7 +10,7 @@ redirect_from:
   h2 {margin-bottom: 0; 
       line-height: 1.0
      }
-  ul {margin-top: 0;
+  ul {margin-top: 0.5;
       padding-top: 0;
      }
 </style>
