@@ -8,7 +8,7 @@ redirect_from:
 ---
 <style>
   h2 {margin-bottom: 0; 
-      line-height: 1
+      line-height: 1.1
      }
   ul {margin-top: 0;
       pedding-top: 0;
@@ -21,13 +21,13 @@ redirect_from:
 <ul>
   <li>Ph.D. in Applied Linguistics and Technology (Iowa State University, Ames, IA)</li>
   <li>M.A. in English with Linguistics Specialty (University of Minnesota-Duluth, Duluth, MN)</li>
-  <li>B.A. in English Language and Literature (Hallym University, Chuncheon-si, Gangwon-do, South Korea.)</li>
+  <li>B.A. in English Language and Literature (Hallym University, Chuncheon-si, Gangwon-do, South Korea)</li>
 </ul>
 
 <h2> Research focus </h2>
 <ul>
   <li>Corpus linguistics & AI assisted genre/register analysis</li>
-  <li>Corpus & LLM database development for reseach and pedagogical purposes (e.g., Genre-based pedagogy, Data-Driven Learning)
+  <li>Corpus & LLM database development for research and pedagogical purposes (e.g., Genre-based pedagogy, Data-Driven Learning)
   <li>AI-Assisted language teaching & learning (CALL/MALL)
   <li>Designing pedagogical frameworks for project-based content and language learning courses
   <li>Designing pedagogical frameworks for project-based content and language learning courses
