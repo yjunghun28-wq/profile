@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-##Education<br>
+##Education##<br>
 - Ph.D. in Applied Linguistics and Technology (Iowa State University, Ames, IA)
 - M.A. in English with Linguistics Specialty (University of Minnesota-Duluth, Duluth, MN)
 - B.A. in English Language and Literature (Hallym University, Chuncheon-si, Gangwon-do, South Korea.)
 
-##Research Focus<br>
+##Research Focus##<br>
 - Corpus linguistics & AI assisted genre/register analysis
 - Corpus & LLM database development for reseach and pedagogical purposes (e.g., Genre-based pedagogy, Data-Driven Learning)
 - AI-Assisted language teaching & learning (CALL/MALL)
