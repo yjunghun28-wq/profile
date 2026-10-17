@@ -34,3 +34,7 @@ redirect_from:
   <li>Language teacher education & AI literacy
   <li>Theoretical Linguistics: Systemic Functional Linguistics, Cognitive Grammar, Generative Grammar
 </ul>
+
+<h2> CV </h2>
+<ul>
+  <li>[Download my CV (PDF)](/files/cv.pdf)</li>
