@@ -35,6 +35,7 @@ redirect_from:
   <li>Theoretical Linguistics: Systemic Functional Linguistics, Cognitive Grammar, Generative Grammar
 </ul>
 
-<h2> CV </h2>
+<h2>CV</h2>
 <ul>
-  <li>[Download my CV (PDF)](/files/cv.pdf)</li>
+  <li>Here is my CV: <a href="https://yjunghun28-wq.github.io/profile/">View Profile</a></li>
+</ul>
