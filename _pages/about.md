@@ -37,5 +37,5 @@ redirect_from:
 
 <h2>CV</h2>
 <ul>
-  <li>Here is my CV: <a href="https://yjunghun28-wq.github.io/profile/">View Profile</a></li>
+  <li>Here is my CV: <a href="https://drive.google.com/file/d/1pPQkdIbltjq019LaprKCwZD54gORrsjW/view?usp=sharing">Link</a></li>
 </ul>
