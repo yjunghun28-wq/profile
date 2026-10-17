@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junghun's Profile"
+title: "Junghun (양정훈)'s Profile"
 author_profile: true
 redirect_from: 
   - /about/
